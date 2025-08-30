@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\EntityFramework\EntityFramework\bin\Debug\net8.0\EntityFramework.exe
+C:\Users\Acer\source\repos\EntityFramework\EntityFramework\bin\Debug\net8.0\EntityFramework.deps.json
+C:\Users\Acer\source\repos\EntityFramework\EntityFramework\bin\Debug\net8.0\EntityFramework.runtimeconfig.json
+C:\Users\Acer\source\repos\EntityFramework\EntityFramework\bin\Debug\net8.0\EntityFramework.dll
+C:\Users\Acer\source\repos\EntityFramework\EntityFramework\bin\Debug\net8.0\EntityFramework.pdb
+C:\Users\Acer\source\repos\EntityFramework\EntityFramework\obj\Debug\net8.0\EntityFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\EntityFramework\EntityFramework\obj\Debug\net8.0\EntityFramework.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\EntityFramework\EntityFramework\obj\Debug\net8.0\EntityFramework.AssemblyInfo.cs
+C:\Users\Acer\source\repos\EntityFramework\EntityFramework\obj\Debug\net8.0\EntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\EntityFramework\EntityFramework\obj\Debug\net8.0\EntityFramework.dll
+C:\Users\Acer\source\repos\EntityFramework\EntityFramework\obj\Debug\net8.0\refint\EntityFramework.dll
+C:\Users\Acer\source\repos\EntityFramework\EntityFramework\obj\Debug\net8.0\EntityFramework.pdb
+C:\Users\Acer\source\repos\EntityFramework\EntityFramework\obj\Debug\net8.0\EntityFramework.genruntimeconfig.cache
+C:\Users\Acer\source\repos\EntityFramework\EntityFramework\obj\Debug\net8.0\ref\EntityFramework.dll
