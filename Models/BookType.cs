@@ -1,4 +1,5 @@
-﻿using System;
+﻿using EntityFramework.Models.Base;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace EntityFramework.Models
 {
-    internal class BookType
+    internal class BookType : BaseEntity
     {
         public string Name { get; set; }
 

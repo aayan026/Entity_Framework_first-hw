@@ -16,8 +16,8 @@ namespace EntityFramework.Models
         public DateTime BirthDay { get; set; }
         public string PhoneNumber { get; set; }
 
-        //deyesen navigation property
-        public List<Book> Books { get; set; }
+        // navigation property
+        public List<Operation> Operations { get; set; }
 
     }
 }

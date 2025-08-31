@@ -14,9 +14,10 @@ namespace EntityFramework.Models
 
         //fk
         public int AuthorId { get; set; }
+        public int BookTypeId { get; set; }
 
         //navigation property
-        public List<Student> Students { get; set; }
+        public List<Operation> Operations { get; set; }
         public Author Author { get; set; }
         public BookType BookType { get; set; }
     }
